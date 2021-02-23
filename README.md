@@ -6,3 +6,6 @@ Todas las pruebas del proyecto realizadas en Proteus, Arduino y Visual Studio Co
 
 - Placas  
 Incluye todos los PCBs que se diseñaron para el proyecto y sus respectivos modelos 3D
+
+- Diseños
+Prototipos y diseños de la pagina web del proyecto
