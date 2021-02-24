@@ -1,0 +1,29 @@
+Titulo: To-Team
+
+Menu
+Texto 1.1: ¿Que es To-Team?
+Texto 2.1: Servicios
+Botón: Contactanos
+
+Slogan: La Energía del Sol a tu Alcance
+Pie de Slogan: ¡No te duermas en los laureles! Mantené el contacto con una opción mas limpia y economica.
+
+Título 2: No hay “bateria baja” que pueda acortar tu día
+Texto 1.2: En To-Team sabemos muy bien que no podes despegarte de tu herramienta de trabajo y tu fuente de ocio. ¡Pero no te agobies! Hace como que nada paso y seguí conectado con la ayuda de nuestro Tótem de carga solar.
+
+Subtitulo 2: Una Energía Ilimitada
+Texto 2.2: En To-Team sabemos muy bien que no podes despegarte de tu herramienta de trabajo y tu fuente de ocio. ¡Pero no te agobies! Hace como que nada paso y seguí conectado con la ayuda de nuestro Tótem de carga solar.
+
+Subtitulo 3: No te quedes incomunicado
+Texto 3.2: El Tótem cuenta con una serie de lockers para proteger tu dispositivo móvil ante cualquier eventualidad. Busca un cargador libre y deja que nuestro sistema haga su magia.
+
+Título 3: ¿Qué hay de nuevo?
+Texto 1.3: ¡Enterate de lo que pasa a tu alrededor! La energía eléctrica brindada por los paneles solares es mas que suficiente como para alimentar la pantalla informativa presente en la parte frontal del tótem. De esta forma, tendras acceso a datos relacionados con el clima, la fecha, la hora, los feriados próximos y las noticias locales e internacionales.
+
+Título 4: ¿Quéres conocer el proyecto?
+Texto 1.4: To-Team es un desarrollo confiable elaborado por alumnos de la E.E.S.T N°7 de Quilmes (IMPA), que tiene en cuenta tus exigencias y valora tus necesidades, acompañandote el resto de tu día.
+
+Pie de Pagina
+Texto 1.5: Contactanos
+Texto 2.5: To-Team
+Texto 3.5: Hecho con Squarespace
